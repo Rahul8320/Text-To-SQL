@@ -4,7 +4,7 @@ Interact with your database by naturel english text or query.
 
 ## Prerequisites
 
- - [Python (version 3.14 or higher)](https://www.python.org/downloads)
+ - [Python (version 3.13 or higher)](https://www.python.org/downloads)
  - [UV](https://docs.astral.sh/uv/getting-started/installation)
 
 ## Local Development Setup
